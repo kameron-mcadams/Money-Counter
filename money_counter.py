@@ -1,4 +1,4 @@
-pennies = int(input("How many nickels do you have?"))
+pennies = int(input("How many pennies do you have?"))
 nickels = int(input("How many nickels do you have?"))
 dimes = int(input("How many dimes do you have?"))
 quarters = int(input("How many quarters do you have?"))
